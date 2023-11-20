@@ -39,5 +39,5 @@ function display(result){
 }
 
 function selectInput(list){
-    inputBox.value = this.innerHTML;
+    inputBox.value = list.innerHTML;
 }
