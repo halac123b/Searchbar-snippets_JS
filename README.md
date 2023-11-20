@@ -1,4 +1,4 @@
-Code snippets for developing Embedded System with ESP-32 board
+# Searchbar snippet with JS
 
 <p>Folder list:</p>
 <ol>
